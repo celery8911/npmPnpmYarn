@@ -1,0 +1,13 @@
+{
+  "name": "npm-demo",
+  "version": "1.0.0",
+  "description": "NPM 包管理器演示项目",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Running tests with npm\""
+  },
+  "keywords": ["npm", "demo"],
+  "author": "",
+  "license": "ISC"
+}
